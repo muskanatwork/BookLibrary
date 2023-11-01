@@ -1,0 +1,55 @@
+body {
+    background-color: blanchedalmond;
+}
+
+nav {
+    background-color: darksalmon;
+    font-size: 30px;
+}
+
+.button {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.item {
+    background-color: lightslategrey;
+    width: 200px;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#submit {
+    background-color: chartreuse;
+    font-size: medium;
+
+}
+
+.form {
+    display: none;
+}
+
+.carDiv {
+    background-color: lightslategray;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+
+}
+
+.Container {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.cardButton {
+    border-radius: 15px;
+    font-size: medium;
+}
+
+.cardButton1 {
+    border-radius: 15px;
+    font-size: medium;
+}
